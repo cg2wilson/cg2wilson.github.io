@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vereninka (2004)- 'From theory to practice : What does the metaphor of scaffolding mean to educators today?'
+title: Vereninka (2004)- 'From theory to practice - What does the metaphor of scaffolding mean to educators today?'
 subtitle: Constructivism Continued
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
