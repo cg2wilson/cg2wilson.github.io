@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About me
+title: Philosophies of Teaching
 #subtitle: 
 ---
 
+## Learning
 
+## Teaching
 
-### My story
+## Growth Mindset
+
+## Assessment
 
 
