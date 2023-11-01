@@ -12,6 +12,6 @@ I am beginning my research career, but am interested in
 - Student notions of equivalence
 
 ### Collaborators
-- [Dr. Milo&#0289 Savi&#0199](http://www.milossavic.com/)
+- [Dr. Milo&#0289; Savi&#0199;](http://www.milossavic.com/)
 - [Dr. Deborah Moore-Russo](https://dmr.oucreate.com/)
 

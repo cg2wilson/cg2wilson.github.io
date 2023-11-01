@@ -7,6 +7,7 @@ subtitle: Constructivism Continued
 #share-img: /assets/img/path.jpg
 tags: [EPSY5463, Constructivism, Scaffolding]
 ---
+
  ## Article Summary
 
 This article is situated in the context of Australian classrooms around the turn of the millenium, and indicates that teaching quality "[was becoming] a focus for educational researchers and practitioners" and that "the metaphor of scaffolding...[was] getting more popular among educators" (p. 5). Despite this, "scaffolding does not provide educators with clear and definite guidelines on the ways that it should be used to achieve successful teaching" and that "there is a need for a clear articulation of the basic theoretical principles" of the metaphor in order to guarantee that it is used correctly. Per the author, the paper "attempts to examine the relationship between perceptions of scaffolding by educators and the principles of teaching in the zone of proximal development", and attempts to answer the following questions: what characteristics to educational researchers attribute to scaffolding to describe it as different to other kinds of teaching instruction?; how do these characteristics connect to those of teaching in the zone of proximal development? (p. 6)
@@ -33,8 +34,8 @@ The ZPD is "the distance between what a person can do with and without help" (p.
 
 Up front, there seems to some tension between what Verenikina claims and what Schunk claims. Schunk cites Puntambekar & Humbscher (2005) in claiming that "scaffolding is not a formal part of Vygotsky's theory" and that its label was "coined by Wood, Bruner, and Ross (1976)" ("Vygotsky's Sociocultural Theory", Applications, para. 4). However, Vereninka only seems to say that "the concept of the zone of proximal development...is commonly regarded as the theoretical underpinning of scaffolding" (p. 7). However, this is resolved in the next paragraph, when Vereninka gives a handful of citations for the theoretical underpinning comment.
 
-
 Overall, I think that the article does a decent job of identifying where the idea of scaffolding can go wrong, and more importantly, why it can go wrong from the standpoint of Vygotsky's zone of proximal development. 
+
 ---
 ### Citations
 

@@ -20,6 +20,7 @@ For my current office hours, you can view [this page](https://cg2wilson.github.i
 ### Looking Ahead
 
 In the Spring of 2024, I'll be teaching the following courses:
+- Math 1743: Business Calculus I
 - Math 2013: Introduction to Statistics
 - Math 2104: Calculus & Analytic Geometry I
 - Math 2413: Ordinary Differential Equations
@@ -48,7 +49,7 @@ I was instructor of record for many classes at OU, while I was a graduate studen
 - Math 1643: Functions & Modeling (Fall 20, Spring 21, Fall 21, Fall 23)
 - Math 1743: Business Calculus I (Summer 15, Fall 15, Summer 16, Fall 17, Spring 20, Fall 22)
 - Math 1823: Calculus & Analytic Geometry I (Fall 19, Spring 20, Fall 20, Spring 21, Summer 21, Fall 21, Spring 22, Spring 23)
-- Math 1914: Differential & INtegral Calculus (Summer 17, Fall 19, Spring 20, Fall 20, Fall 21, Spring 22, Fall 22, Spring 23)
+- Math 1914: Differential & Integral Calculus (Summer 17, Fall 19, Spring 20, Fall 20, Fall 21, Spring 22, Fall 22, Spring 23)
 - Math 2123: Business Calculus II (Fall 16, Fall 18, Spring 19, Fall 19)
 - Math 2423: Calculus & Analytic Geometry II (Spring 21, Summer 21, Spring 22, Spring 23)
 - Math 2433: Calculus & Analytic Geometry III (Summer 19)
