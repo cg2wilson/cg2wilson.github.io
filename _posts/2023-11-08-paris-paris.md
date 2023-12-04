@@ -48,7 +48,9 @@ The big punchline for the article is a summary of SRL research, organized in a l
 
 ## My Thoughts
 
+
 I really like the ideas that are collected in this article, and it's nice and convenient to have that list about self-regulated learning. I need to sit down and think about engaging in some of these strategies explicitly (such as the self-assessment) for use in future courses.
+
 ---
 ### Citations
 
