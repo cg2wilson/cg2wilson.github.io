@@ -10,6 +10,7 @@ I am beginning my research career, but am interested in
 - How students learn and interact with calculus, particularly the transfer of skillsets
 - Mathematical creativity
 - Student notions of equivalence
+- Trauma-informed teaching practices, particularly with respect to mathematics trauma/anxiety
 
 ### Collaborators
 - [Dr. Milo&#0353; Savi&#0263;](http://www.milossavic.com/)
@@ -19,6 +20,10 @@ I am beginning my research career, but am interested in
 - [Dr. Elise Lockwood](https://math.oregonstate.edu/directory/elise-lockwood)
 - April Richardson
 - Hudson Payne
+- [Dr. Irene Duranczyk](https://www.cehd.umn.edu/people/duran026/)
+- [Dr. George Tintera](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=George_Tintera)
+- [Dr. Branwen Schaub](https://www.wvc.edu/students/support/mesa/staff.html)
+- [Megan Selbach-Allen](https://scholar.google.com/citations?user=r_La1IoAAAAJ&hl=en)
 
 ### Grants
 

@@ -7,23 +7,16 @@ title: Courses
 ## OCCC
 I began adjuncting at OCCC in the Summer of 2015, and continued to do so almost every semester until I got hired full-time in August 2023. I enjoy the close-knit community, small class sizes, and dedication to the teaching mission that can be found here.
 
-
 ### This Semester
-
-In the Fall of 2023, I'm teaching the following courses:
-- Math 1483: Functions & Modeling 
-- Math 2013: Introduction to Statistics
-- Math 2104: Calculus & Analytic Geometry I
-
-For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
-
-### Looking Ahead
 
 In the Spring of 2024, I'll be teaching the following courses:
 - Math 1743: Business Calculus I
 - Math 2013: Introduction to Statistics
 - Math 2104: Calculus & Analytic Geometry I
 - Math 2413: Ordinary Differential Equations
+
+For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
+
 
 ### Past Semesters
 
