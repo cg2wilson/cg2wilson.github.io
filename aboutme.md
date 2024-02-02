@@ -14,7 +14,7 @@ I am a Ph.D. student in the Department of Mathematics at Oklahoma State Universi
 
 
 I'm a certified teacher by the State of Oklahoma, holding the following certifications:
-- Advanced Mathematics (Grdaes 6-12)
+- Advanced Mathematics (Grades 6-12)
 - Intermediate Mathematics (Grades 6-12)
 - Mid-Level Math for High School Credit (Grades 5-8)
 - Speech/Drama/Debate
