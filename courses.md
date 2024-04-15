@@ -9,11 +9,13 @@ I began adjuncting at OCCC in the Summer of 2015, and continued to do so almost 
 
 ### This Semester
 
-In the Spring of 2024, I'll be teaching the following courses:
-- Math 1743: Business Calculus I
+In the Summer of 2024, I'll be teaching the following courses:
+- Math 2013: Introduction to Statistics
+
+In the Fall of 2024, I'll be teaching the following courses:
+- Math 1473: Functions & Modeling
 - Math 2013: Introduction to Statistics
 - Math 2104: Calculus & Analytic Geometry I
-- Math 2413: Ordinary Differential Equations
 
 For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
 
@@ -22,13 +24,13 @@ For my current office hours, you can view [this page](https://cg2wilson.github.i
 
 Here's a list of classes I've taught at OCCC:
 - Math 0313: College Preparatory Math III (Summer 23)
-- Math 1483: Functions & Modeling (Fall 23)
+- Math 1483: Functions & Modeling (Fall 23, Fall 24)
 - Math 1613: Trigonometry (Spring 17)
-- Math 2013: Introduction to Statistics (Spring 18, Fall 21, Summer 22, Spring 23, Fall 23)
-- Math 2104: Calculus & Analytic Geometry I (Spring 22, Fall 22, Fall 23)
+- Math 2013: Introduction to Statistics (Spring 18, Fall 21, Summer 22, Spring 23, Fall 23, Spring 24, Summer 24, Fall 24)
+- Math 2104: Calculus & Analytic Geometry I (Spring 22, Fall 22, Fall 23, Spring 24, Fall 24)
 - Math 2214: Calculus & Analytic Geometry II (Summer 15, Fall 15, Fall 17, Summer 18, Fall 18, Summer 19, Spring 20, Spring 21)
 - Math 2314: Calculus & Analytic Geometry III (Fall 16, Summer 17)
-- Math 2413: Ordinary Differential Equations (Spring 16, Summer 16)
+- Math 2413: Ordinary Differential Equations (Spring 16, Summer 16, Spring 24)
 
 ---
 
