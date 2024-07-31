@@ -9,9 +9,6 @@ I began adjuncting at OCCC in the Summer of 2015, and continued to do so almost 
 
 ### This Semester
 
-In the Summer of 2024, I'll be teaching the following courses:
-- Math 2013: Introduction to Statistics
-
 In the Fall of 2024, I'll be teaching the following courses:
 - Math 1473: Functions & Modeling
 - Math 2013: Introduction to Statistics
@@ -36,7 +33,7 @@ Here's a list of classes I've taught at OCCC:
 
 ## OU
 I was instructor of record for many classes at OU, while I was a graduate student and as Renewable Term Faculty. Here's a list of those classes:
-- Math 0123: Intermediate Algebra (Fall 23, Spring 24)
+- Math 0123: Intermediate Algebra (Fall 23, Spring 24, Fall 24)
 - Math 1473: Math for Critical Thinking (Fall 22)
 - Math 1501: College Algebra Corequisite (Summer 23)
 - Math 1503: College Algebra (Summer 23)
