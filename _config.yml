@@ -31,6 +31,7 @@ navbar-links:
   #  - Philosophy: "philosophy"
     - Courses: "courses"
     - Office Hours: "officehours"
+    - Announcements: "announcements"
 #
 # Add these back in when projects become mature   
   Projects:
