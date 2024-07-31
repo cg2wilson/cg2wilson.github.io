@@ -13,7 +13,7 @@
 title: Home
 
 # Your name to show in the footer
-author: a spike lee joint
+author: a cgw joint
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -28,14 +28,16 @@ navbar-links:
     - Overview: "research"
     - Publications: "publications"
   Teaching:
-    - Philosophy: "philosophy"
+  #  - Philosophy: "philosophy"
     - Courses: "courses"
     - Office Hours: "officehours"
 #
-# Add these back in when projects become mature  
-# Projects:
-#    - STEM Calculus Workbook (OU): stewart-calculus-workbook
-#    - Business Calculus Workbook (OU): bc-workbook
+# Add these back in when projects become mature   
+  Projects:
+    - Calculus Activity Book: "calc-1-tbil"
+  #  - Business Calculus Activity Book:
+  # - Statistics Study Guide: 
+
   
 
 ################
@@ -47,7 +49,7 @@ navbar-links:
 avatar: "/assets/img/headshot.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
