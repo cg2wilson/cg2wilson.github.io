@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Office Hours
-subtitle: Spring 2024
+subtitle: Fall 2024
 ---
 
 My office hours at OCCC are as follows:
-- Monday/Wednesday 8:00-9:30am, 1:00-4:00pm
-- Tuesday 9:00-10:00am
+- Monday/Wednesday 7:00am - 8:30am; 10:30am - 1:00pm
+- Tuesday 8:00am - 11:00am
 
 I'm always happy to answer questions by email or Discord as well!
