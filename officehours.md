@@ -21,10 +21,10 @@ For students in my online Math 2013 (Intro to Statistics) courses, our course-sp
 
 The Zoom link is on our course homepage, titled "2013-Specific Office Hours"
 
-### Math 1473 Office Hours
+### Math 1483 Office Hours
 For students in my online Math 1473 (Functions & Modeling) courses, our course-specific office hours will be
 - Thursday 11:30am - 1:00pm
 
-The Zoom link is on our course homepage, titled "1473-Specific Office Hours"
+The Zoom link is on our course homepage, titled "1483-Specific Office Hours"
 
 I'm always happy to answer questions by email or Discord as well!
