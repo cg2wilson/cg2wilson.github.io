@@ -4,7 +4,8 @@ title: Office Hours
 subtitle: Fall 2024
 ---
 
-Be sure to check the [Announcements page](https://cg2wilson.github.io/annoucements) for any changes in the day's office hours
+Be sure to check the [Announcements page](https://cg2wilson.github.io/announcements) for any changes in the day's office hours
+
 ---
 
 ## General Office Hours
