@@ -17,7 +17,7 @@ For online students, the Zoom link is available on Moodle.
 
 ### Math 2013 Office Hours
 For students in my online Math 2013 (Intro to Statistics) courses, our course-specific office hours will be
-- Thursday 8:30am - 10:00am
+- Thursday 9:00am - 10:30am
 
 The Zoom link is on our course homepage, titled "2013-Specific Office Hours"
 
