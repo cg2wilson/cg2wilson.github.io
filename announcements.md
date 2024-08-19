@@ -3,7 +3,12 @@ layout: page
 title: Announcements
 #subtitle: 
 ---
+# Hopefully the Final Modification for the Semester
+
+Because of small schedule fluctuations, I've changed the office hours a little bit. Now, I'll be in-office Monday/Wednesday 7:00-8:30 and 10:30-12:00, and Tuesday from 7am-12pm. This change has been made on the office hours page as well.
+
 # 8/19 and 8/21 Location Modification
+
 For the Monday and Wednesday of the first week, I will be staffing the Mathematics & Biology Welcome Table. This means that I will not be in my office, but I'm happy to chat if you would like to. The table is outside of the Math Resource Center, and I will be there from 7:30am - 8:30am and 11:00am - 12:00pm on Monday and Wednesday. 
 
 # 7/31/24
