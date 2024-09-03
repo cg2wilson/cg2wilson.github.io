@@ -3,6 +3,10 @@ layout: page
 title: Announcements
 #subtitle: 
 ---
+# 9/3 Office Hours
+
+Due to the SEM Division meeting, I will not be in my office from 11-12pm on Tuesday, 9/3. I will, however, be able to answer emails during that time.
+
 # Hopefully the Final Modification for the Semester
 
 Because of small schedule fluctuations, I've changed the office hours a little bit. Now, I'll be in-office Monday/Wednesday 7:00-8:30 and 10:30-12:00, and Tuesday from 7am-12pm. This change has been made on the office hours page as well.
