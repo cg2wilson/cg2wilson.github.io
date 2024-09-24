@@ -3,6 +3,11 @@ layout: page
 title: Announcements
 #subtitle: 
 ---
+
+# 9/23 Office Hours
+
+I have a doctor's appointment on Tuesday, 9/23 so office hours that day will be on Zoom. If you have questions, reach out via Discord or email.
+
 # 9/3 Office Hours
 
 Due to the SEM Division meeting, I will not be in my office from 11-12pm on Tuesday, 9/3. I will, however, be able to answer emails during that time.
