@@ -16,6 +16,18 @@ In the Fall of 2024, I'll be teaching the following courses:
 
 For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
 
+---
+
+In the Spring of 2025, I'll be teaching the following courses:
+- Math 2104: Calculus & Analytic Geometry I
+- Math 2214: Calculus & Analytic Geometry II
+- Math 2314: Calculus & Analytic Geometry III
+- Math 2413: Ordinary Differential Equations (Early 8-week)
+
+All four courses will be taught in some flavor of active learning; 2104 and 2214 will be taught using Team-Based Inquiry Learning, and 2314 will likely be as well. If you have any questions, feel free to reach out!
+
+---
+
 
 ### Past Semesters
 
@@ -27,7 +39,7 @@ Here's a list of classes I've taught at OCCC:
 - Math 2104: Calculus & Analytic Geometry I (Spring 22, Fall 22, Fall 23, Spring 24, Fall 24)
 - Math 2214: Calculus & Analytic Geometry II (Summer 15, Fall 15, Fall 17, Summer 18, Fall 18, Summer 19, Spring 20, Spring 21)
 - Math 2314: Calculus & Analytic Geometry III (Fall 16, Summer 17)
-- Math 2413: Ordinary Differential Equations (Spring 16, Summer 16, Spring 24)
+- Math 2413: Ordinary Differential Equations (Spring 16, Summer 16, Spring 24, Spring 25)
 
 ---
 
