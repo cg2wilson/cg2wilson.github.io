@@ -16,6 +16,8 @@ Richardson, A. P., Cook, J.P., Reed, Z., Payne, O.H., <b>Wilson, C.</b>, & Lockw
 
 ## Posters Presented
 
+<b>Wilson, C.</b>, Bjorkman, K., & Chowdhury, A. (2024). Mathematics Credit Loss upon Transfer: The Need for Specific Research. 26th Annual Conference on Research in Undergraduate Mathematics Education, Washington, D.C.
+
 <b>Wilson, C.</b> &amp; Moore-Russo, D. (2021). Student Understanding of Domain and Range in Calculus I. 46th Annual AMATYC Conference, Phoenix, AZ.
 
 <b>WIlson, C.</b> &amp; Savi&#0263;, M. (2023). Comparing Student and Instructor Perspectives of Teaching Actions to Foster Creativity. 25th Annual Conference on Research in Undergraduate Mathematics Education, Omaha, NE.

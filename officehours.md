@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-subtitle: Fall 2024
+subtitle: Spring 2025
 ---
 
 Be sure to check the [Announcements page](https://cg2wilson.github.io/announcements) for any changes in the day's office hours
@@ -10,21 +10,7 @@ Be sure to check the [Announcements page](https://cg2wilson.github.io/announceme
 
 ## General Office Hours
 My general office hours at OCCC are as follows, in SEM 2B6(B):
-- Monday/Wednesday 7:00am - 8:30am; 10:30am - 12:00pm
-- Tuesday 7:00am - 12:00pm
-
-For online students, the Zoom link is available on Moodle.
-
-### Math 2013 Office Hours
-For students in my online Math 2013 (Intro to Statistics) courses, our course-specific office hours will be
-- Thursday 9:00am - 10:30am
-
-The Zoom link is on our course homepage, titled "2013-Specific Office Hours"
-
-### Math 1483 Office Hours
-For students in my online Math 1473 (Functions & Modeling) courses, our course-specific office hours will be
-- Thursday 11:30am - 1:00pm
-
-The Zoom link is on our course homepage, titled "1483-Specific Office Hours"
+- Monday/Wednesday 8:00am - 10:00am; 1:00pm - 3:00pm
+- Tuesday/Thursday 7:00am - 9:00am
 
 I'm always happy to answer questions by email or Discord as well!
