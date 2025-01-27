@@ -20,4 +20,4 @@ Richardson, A. P., Cook, J.P., Reed, Z., Payne, O.H., <b>Wilson, C.</b>, & Lockw
 
 <b>WIlson, C.</b> &amp; Savi&#0263;, M. (2023). Comparing Student and Instructor Perspectives of Teaching Actions to Foster Creativity. 25th Annual Conference on Research in Undergraduate Mathematics Education, Omaha, NE.
 
-<b>Wilson, C.</b>, Bjorkman, K., & Chowdhury, A. (2024). Mathematics Credit Loss upon Transfer: The Need for Specific Research. 26th Annual Conference on Research in Undergraduate Mathematics Education, Washington, D.C.
+<b>Wilson, C.</b>, Bjorkman, K., & Chowdhury, A. (2024). Mathematics Credit Loss upon Transfer: The Need for Specific Research. 27th Annual Conference on Research in Undergraduate Mathematics Education, Washington, D.C.
