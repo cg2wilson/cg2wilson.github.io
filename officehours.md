@@ -10,7 +10,8 @@ Be sure to check the [Announcements page](https://cg2wilson.github.io/announceme
 
 ## General Office Hours
 My general office hours at OCCC are as follows, in SEM 2B6(B):
-- Monday/Wednesday 9:00am - 10:00am; 1:00pm - 5:00pm
+- Monday: 9:00am - 10:00am; 1:00pm - 2:00pm; 3:00pm - 5:00pm
+- Wednesday: 9:00am - 10:00am; 1:00pm - 5:00pm
 - Tuesday/Thursday 8:00am - 9:00am
 
 I'm always happy to answer questions by email or Discord as well!
