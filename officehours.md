@@ -15,3 +15,8 @@ My general office hours at OCCC are as follows, in SEM 2B6(B):
 - Tuesday/Thursday 8:00am - 9:00am
 
 I'm always happy to answer questions by email or Discord as well!
+
+## Math 2013-Specific Office Hours
+My 2013-specific office hours will be
+- Friday: 11:30am - 1:00pm
+on Zoom. The link is available on Moodle.
