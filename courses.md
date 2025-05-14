@@ -26,7 +26,7 @@ Here's a list of classes I've taught at OCCC:
 - Math 0313: College Preparatory Math III (Summer 23)
 - Math 1483: Functions & Modeling (Fall 23, Fall 24)
 - Math 1613: Trigonometry (Spring 17)
-- Math 2013: Introduction to Statistics (Spring 18, Fall 21, Summer 22, Spring 23, Fall 23, Spring 24, Summer 24, Fall 24, Spring 25, Fall 25)
+- Math 2013: Introduction to Statistics (Spring 18, Fall 21, Summer 22, Spring 23, Fall 23, Spring 24, Summer 24, Fall 24, Spring 25, Summer 25, Fall 25)
 - Math 2104: Calculus & Analytic Geometry I (Spring 22, Fall 22, Fall 23, Spring 24, Fall 24, Spring 25, Fall 25)
 - Math 2214: Calculus & Analytic Geometry II (Summer 15, Fall 15, Fall 17, Summer 18, Fall 18, Summer 19, Spring 20, Spring 21, Spring 25, Fall 25)
 - Math 2314: Calculus & Analytic Geometry III (Fall 16, Summer 17, Spring 25)
@@ -35,9 +35,9 @@ Here's a list of classes I've taught at OCCC:
 ---
 
 ## OU
-I was instructor of record for many classes at OU, while I was a graduate student and as Renewable Term Faculty. Here's a list of those classes:
+I have been instructor of record for many classes at OU, while I was a graduate student, Renewable Term Faculty, and as an adjunct. Here's a list of those classes:
 - Math 0123: Intermediate Algebra (Fall 23, Spring 24, Fall 24)
-- Math 1473: Math for Critical Thinking (Fall 22)
+- Math 1473: Math for Critical Thinking (Fall 22, Fall 25)
 - Math 1501: College Algebra Corequisite (Summer 23)
 - Math 1503: College Algebra (Summer 23)
 - Math 1523: Trigonometry/Pre-Calculus (Fall 14, Spring 15)
