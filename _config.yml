@@ -27,6 +27,7 @@ navbar-links:
   Research:
     - Overview: "research"
     - Publications: "publications"
+    - Talks Given: "talks"
   Teaching:
   #  - Philosophy: "philosophy"
     - Courses: "courses"
