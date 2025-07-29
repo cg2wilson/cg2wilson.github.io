@@ -35,10 +35,10 @@ navbar-links:
     - Announcements: "announcements"
 #
 # Add these back in when projects become mature   
-  Projects:
-    - Calculus Activity Book: "calc-tbil"
+  # Projects:
+  #  - Calculus Activity Book: "calc-tbil"
   #  - Business Calculus Activity Book:
-  # - Statistics Study Guide: 
+  #  - Statistics Study Guide: 
 
   
 
