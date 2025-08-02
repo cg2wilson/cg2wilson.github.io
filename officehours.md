@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Office Hours
-subtitle: Summer 2025
+subtitle: Fall 2025
 ---
 
 Be sure to check the [Announcements page](https://cg2wilson.github.io/announcements) for any changes in the day's office hours
@@ -10,8 +10,13 @@ Be sure to check the [Announcements page](https://cg2wilson.github.io/announceme
 
 ## General Office Hours
 My general office hours at OCCC are as follows, in SEM 2B6(B):
-- Tuesday: 10:00am - 12:00pm
+- Monday/Wednesday: 7:00am - 9:00am; 11:00am - 11:30am
+- Tuesday: 7:00am - 12:00pm
 
-I will also be available on Zoom; the link is available in Moodle.
+## 2013 Specific Office Hours
+- Monday: 1:30pm - 3:00pm (Link on Moodle)
+
+## 1473 Specific Office Hours
+- Wednesday: 1:30pm - 3:00pm (Link on Moodle)
 
 I'm always happy to answer questions by email as well!
