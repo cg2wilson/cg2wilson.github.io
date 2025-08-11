@@ -16,7 +16,4 @@ My general office hours at OCCC are as follows, in SEM 2B6(B):
 ## 2013 Specific Office Hours
 - Monday: 1:30pm - 3:00pm (Link on Moodle)
 
-## 1473 Specific Office Hours
-- Wednesday: 1:30pm - 3:00pm (Link on Moodle)
-
 I'm always happy to answer questions by email as well!
