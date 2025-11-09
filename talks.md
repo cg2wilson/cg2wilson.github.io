@@ -3,6 +3,11 @@ layout: page
 title: Talks Given
 #subtitle: 
 ---
+"Equivalence in Measurement Contexts: The Case of Emily". 28th Conference on Research in Undergraduate Math Education, Virginia Tech University, Spring 2026. (Alexandria, VA)
+
+"Innovative Pedagogy in Calculus III". 51st AMATYC Annual Conference, NevMATYC, Fall 2025. (Reno, NV)
+
+"Equivalence in Measurement Contexts: The Case of Emily". OK-TX RUME Conference, University of Oklahoma, Fall 2025. (Norman, OK)
 
 "A Math Department Initiative to Encourage and Advance Collaborative Learning and Inquiry-Based Methods". MAA Mathfest, MAA, Fall 2025. (Sacramento, CA)
 
