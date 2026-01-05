@@ -1,104 +1,56 @@
-:root {
-  --text: #111;
-  --muted: #666;
-  --border: #ddd;
-  --bg: #fff;
-  --accent: #0066cc;
+:root{
+  --text:#111; --muted:#666; --border:#ddd; --accent:#06c;
 }
 
-body {
-  background-image: url("../img/background.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-
-  font-family: system-ui, sans-serif;
-  line-height: 1.6;
-  margin: 0;
-}
-
-
-h1, h2, h3 {
-  line-height: 1.25;
-  margin-top: 2.5rem;
-}
-
-h1 {
-  font-size: 2.2rem;
-  margin-top: 0;
-}
-
-p {
-  margin: 1rem 0;
-}
-
-.container {
-  max-width: 860px;
-  margin: 4rem auto;
-  padding: 2rem 1.5rem;
-
-  background: rgba(255, 255, 255, 0.92);
-  border-radius: 6px;
-}
-
-.site-header {
-  border-bottom: 1px solid var(--border);
-  padding: 1rem 0;
-}
-
-.site-title {
-  font-weight: 700;
-  font-size: 1.1rem;
-  text-decoration: none;
-  color: inherit;
-}
-
-.site-nav a {
-  margin-right: 1rem;
-  text-decoration: none;
-  color: var(--muted);
-}
-
-.site-nav a:hover {
-  color: var(--accent);
-}
-
-a {
-  color: var(--accent);
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.15em;
-}
-
-a:hover {
-  text-decoration-thickness: 2px;
-}
-
-@media (prefers-color-scheme: auto) {
-  :root {
-    --text: #eee;
-    --muted: #aaa;
-    --border: #333;
-    --bg: #111;
-    --accent: #66aaff;
+@media (prefers-color-scheme: dark){
+  :root{
+    --text:#111;
+    --muted:#666;
+    --border:#ddd;
+    --accent:#06c;
   }
 }
 
-.home h1 {
-  font-size: 2.6rem;
+body{
+  margin:0;
+  font-family:system-ui,sans-serif;
+  line-height:1.6;
+  color:var(--text);
+  background:
+    url("../img/background.jpg") center/cover no-repeat fixed;
 }
 
-.home .container {
-  max-width: 640px;
+.container{
+  max-width:860px;
+  margin:4rem auto;
+  padding:2rem 1.5rem;
+  background:rgba(255,255,255,.92);
+  border-radius:6px;
 }
 
-.home-hero {
-  display: grid;
-  grid-template-columns: 180px 1fr;
-  gap: 1.5rem;
-  align-items: start;
+h1,h2,h3{ line-height:1.25; margin:2.5rem 0 0; }
+h1{ font-size:2.2rem; margin-top:0; }
+p{ margin:1rem 0; }
+
+.site-header{ border-bottom:1px solid var(--border); padding:1rem 0; }
+.site-title{ font:700 1.1rem system-ui,sans-serif; color:inherit; text-decoration:none; }
+
+a{ color:var(--accent); text-underline-offset:.15em; }
+.site-nav a{ margin-right:1rem; color:var(--muted); text-decoration:none; }
+a:hover{ text-decoration-thickness:2px; }
+.site-nav a:hover{ color:var(--accent); }
+
+.home h1{ font-size:2.6rem; }
+.home .container{ max-width:640px; }
+
+.home-hero{
+  display:grid;
+  grid-template-columns:180px 1fr;
+  gap:1.5rem;
+  align-items:center; /* vertical centering */
 }
 
+<<<<<<< HEAD
 .home-headshot {
   width: 180px;
   height: 180px;
@@ -106,14 +58,17 @@ a:hover {
   object-position: center top;
   border-radius: 12px;
   border: 1px solid rgba(0,0,0,0.12);
+=======
+.home-headshot{
+  width:180px; height:180px;
+  object-fit:cover;
+  object-position: center top;
+  border-radius:12px;
+  border:1px solid rgba(0,0,0,.12);
+>>>>>>> refs/remotes/new-origin/main
 }
 
-@media (max-width: 700px) {
-  .home-hero {
-    grid-template-columns: 1fr;
-  }
-  .home-headshot {
-    width: 140px;
-    height: 140px;
-  }
+@media (max-width:700px){
+  .home-hero{ grid-template-columns:1fr; }
+  .home-headshot{ width:140px; height:140px; margin:0 auto; }
 }
