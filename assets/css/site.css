@@ -1,6 +1,118 @@
-body { font-family: system-ui, sans-serif; margin: 0; line-height: 1.6; }
-.container { max-width: 860px; margin: 48px auto; padding: 0 16px; }
-.site-header { display: flex; gap: 16px; align-items: baseline; padding: 18px 16px; border-bottom: 1px solid #9993; }
-.site-title { font-weight: 700; text-decoration: none; color: inherit; }
-.site-nav a { margin-right: 12px; text-decoration: none; color: inherit; opacity: 0.85; }
-.site-nav a:hover { opacity: 1; text-decoration: underline; }
+:root {
+  --text: #111;
+  --muted: #666;
+  --border: #ddd;
+  --bg: #fff;
+  --accent: #0066cc;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+}
+
+
+h1, h2, h3 {
+  line-height: 1.25;
+  margin-top: 2.5rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-top: 0;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+.container {
+  max-width: 860px;
+  margin: 4rem auto;
+  padding: 2rem 1.5rem;
+
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 6px;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: var(--muted);
+}
+
+.site-nav a:hover {
+  color: var(--accent);
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  text-decoration-thickness: 2px;
+}
+
+@media (prefers-color-scheme: auto) {
+  :root {
+    --text: #eee;
+    --muted: #aaa;
+    --border: #333;
+    --bg: #111;
+    --accent: #66aaff;
+  }
+}
+
+.home h1 {
+  font-size: 2.6rem;
+}
+
+.home .container {
+  max-width: 640px;
+}
+
+.home-hero {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.home-headshot {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.12);
+}
+
+@media (max-width: 700px) {
+  .home-hero {
+    grid-template-columns: 1fr;
+  }
+  .home-headshot {
+    width: 140px;
+    height: 140px;
+  }
+}

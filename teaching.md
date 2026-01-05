@@ -59,5 +59,6 @@ Prior to arriving at OU, I taught math with Union Public Schools (Tulsa, OK) at 
 - Beginning & Intermediate Algebra (Spring 13)
 - Calculus & Analytic Geometry II (Spring 14)
 - Ordinary Differential Equations (Spring 14)
+
 ---
 
