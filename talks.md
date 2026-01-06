@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks Given
-permalink: /research/talks 
+permalink: /research/talks/
 ---
 "Equivalence in Measurement Contexts: The Case of Emily". 28th Conference on Research in Undergraduate Math Education, Virginia Tech University, Spring 2026. (Alexandria, VA)
 
