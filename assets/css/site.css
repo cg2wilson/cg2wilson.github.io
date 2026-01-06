@@ -50,22 +50,12 @@ a:hover{ text-decoration-thickness:2px; }
   align-items:center; /* vertical centering */
 }
 
-<<<<<<< HEAD
-.home-headshot {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  object-position: center top;
-  border-radius: 12px;
-  border: 1px solid rgba(0,0,0,0.12);
-=======
 .home-headshot{
   width:180px; height:180px;
   object-fit:cover;
   object-position: center top;
   border-radius:12px;
   border:1px solid rgba(0,0,0,.12);
->>>>>>> refs/remotes/new-origin/main
 }
 
 @media (max-width:700px){
