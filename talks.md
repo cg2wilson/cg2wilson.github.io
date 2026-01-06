@@ -3,6 +3,9 @@ layout: page
 title: Talks Given
 permalink: /research/talks/
 ---
+
+## Talks Given
+
 "Equivalence in Measurement Contexts: The Case of Emily". 28th Conference on Research in Undergraduate Math Education, Virginia Tech University, Spring 2026. (Alexandria, VA)
 
 "Innovative Pedagogy in Calculus III". 51st AMATYC Annual Conference, NevMATYC, Fall 2025. (Reno, NV)
