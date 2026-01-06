@@ -1,11 +1,7 @@
 ---
 layout: page
 title: Office Hours
-permalink: /teaching/officehours
----
-
-Be sure to check the [Announcements page](https://cg2wilson.github.io/announcements) for any changes in the day's office hours
-
+permalink: /teaching/officehours/
 ---
 
 ## General Office Hours
