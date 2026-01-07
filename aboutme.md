@@ -21,7 +21,7 @@ I'm a certified teacher by the State of Oklahoma, holding the following certific
 
 
 ### Miscellaneous
-Prior to my OU, I was the Assistant Speech & Debate Coach at Union Public Schools. I have been involved with the Speeech & Debate community since high school, with various levels of investment. In addition to Union, I coached policy debate at Bishop Kelley High School (my alma mater). I do occasionally judge at or help with running local tournaments.
+Prior to my OU, I was the Assistant Speech & Debate Coach at Union Public Schools. I have been involved with the Speech & Debate community since high school, with various levels of investment. In addition to Union, I coached policy debate at Bishop Kelley High School (my alma mater). I do occasionally judge at or help with running local tournaments.
 
 
 I use he/him pronouns, but I'm not picky.
