@@ -75,4 +75,21 @@ a:hover{ text-decoration-thickness:2px; }
   grid-column: 1 / -1; /* spans both columns */
 }
 
+.social-links{
+  margin-top: 2.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+}
 
+.social-links img{
+  width: 24px;
+  height: 24px;
+  opacity: 0.75;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.social-links a:hover img{
+  opacity: 1;
+  transform: translateY(-2px);
+}
