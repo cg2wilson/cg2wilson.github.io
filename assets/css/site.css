@@ -61,4 +61,18 @@ a:hover{ text-decoration-thickness:2px; }
 @media (max-width:700px){
   .home-hero{ grid-template-columns:1fr; }
   .home-headshot{ width:140px; height:140px; margin:0 auto; }
+  .research-grid{ grid-template-columns: 1fr; }
+  .research-wide{ grid-column: auto; }
 }
+
+.research-grid{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.research-wide{
+  grid-column: 1 / -1; /* spans both columns */
+}
+
+
