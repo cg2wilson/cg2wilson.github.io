@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
-
 ## OCCC
 ### Spring 2026
 
