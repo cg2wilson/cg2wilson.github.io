@@ -36,7 +36,12 @@ p{ margin:1rem 0; }
 .site-title{ font:700 1.1rem system-ui,sans-serif; color:inherit; text-decoration:none; }
 
 a{ color:var(--accent); text-underline-offset:.15em; }
-.site-nav a{ margin-right:1rem; color:var(--muted); text-decoration:none; }
+.site-nav a{
+  padding: 0.4rem 0.75rem;   /* vertical | horizontal */
+  border-radius: 6px;        /* optional, soft edges */
+  text-decoration: none;
+  color: var(--muted);
+}
 a:hover{ text-decoration-thickness:2px; }
 .site-nav a:hover{ color:var(--accent); }
 
