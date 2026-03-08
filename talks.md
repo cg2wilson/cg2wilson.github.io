@@ -6,7 +6,11 @@ permalink: /research/talks/
 
 ## Talks Given
 
+"Community College Students' Productive Use of Equivalence in Measurement Contexts". RUME Seminar, Oklahoma State University, Spring 2026. (Stillwater, OK)
+
 "Equivalence in Measurement Contexts: The Case of Emily". 28th Conference on Research in Undergraduate Math Education, Virginia Tech University, Spring 2026. (Alexandria, VA)
+
+"Equivalence in Measurement Contexts: The Case of Emily". RUME Seminar, University of Oklahoma, Spring 2026. (Norman, OK)
 
 "Innovative Pedagogy in Calculus III". 51st AMATYC Annual Conference, NevMATYC, Fall 2025. (Reno, NV)
 
