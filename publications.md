@@ -6,7 +6,11 @@ permalink: /research/publications/
 
 ## Publications
 
-Cook, J.P., Richardson, A., Reed, Z., Lockwood, E., Payne, O.H., & <b>Wilson, C.</b> (2026) Analyzing students' productive use of equivalence transformations. Journal of Mathematical Behavior 81. 101285.
+<b>Wilson, C.</b>, Paoletti, T., & Cook, J.P. (2027). Students' equivalence ways of reasoning in measurement contexts. To appear in the International Journal of Research in Undergraduate Mathematics Education.
+
+<b>Wilson, C.</b>, Paoletti, T., Cook J.P., Reed, Z., & Lockwood, E. (2026). Equivalence in measurement contexts: The case of Emily. In Cook, S., Katz, B., & Moore-Russo, D. (Eds.) Proceedings of the 28th Annual Conference on Research in Undergraduate Mathematics Education. Arlington, VA.
+
+Cook, J.P., Richardson, A., Reed, Z., Lockwood, E., Payne, O.H., & <b>Wilson, C.</b> (2026). Analyzing students' productive use of equivalence transformations. Journal of Mathematical Behavior 81. 101285.
 
 Richardson, A., Cook, J.P., Reed, Z., Payne, O.H., <b>Wilson, C.</b>, & Lockwood, E. (2024). In defense of transformational activity: Analyzing students' productive reasoning about equivalence. In Cook, S., Katz, B. &amp; Moore-Russo, D. (Eds.) Proceedings of the 26th Annual Conference on Research in Undergraduate Mathematics Education. Omaha, NE.
 
