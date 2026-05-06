@@ -5,6 +5,9 @@ permalink: /research/talks/
 ---
 
 ## Talks Given
+
+"Alternative Grading and Inquiry Learning in Calculus". 52nd Annual AMATYC Conference, PSMATYC, Fall 2026. (Philadelphia, PA)
+
 "Equivalence in Measurement Contexts". 52nd Annual AMATYC Conference, PSMATYC, Fall 2026. (Philadelphia, PA)
 
 "Community College Students' Productive Use of Equivalence in Measurement Contexts". RUME Seminar, Oklahoma State University, Spring 2026. (Stillwater, OK)
