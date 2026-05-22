@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-[Department of Mathematics](https://www.occc.edu/sem/math-dept/)<br/>
+[Division of Science, Engineering, and Mathematics](https://occc.edu/academics/divisions/science-engineering-math/index.html)<br/>
 [Oklahoma City Community College](https://occc.edu)<br/>
 7777 S. May Ave.<br/>
 OKC, OK, 73159<br/>
