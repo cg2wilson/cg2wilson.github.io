@@ -5,12 +5,10 @@ permalink: /teaching/
 ---
 
 ## OCCC
-### Spring 2026
+### Summer 2026
 
-In the Spring of 2026, I'll be teaching the following courses:
-- Math 1483: Functions & Modeling
+In the Summer of 2026, I'll be teaching the following courses:
 - Math 2013: Intro to Statistics
-- Math 2104: Calculus & Analytic Geometry I
 - Math 2314: Calculus & Analytic Geometry III
 
 For my current office hours, you can view [this page](/teaching/officehours/)
