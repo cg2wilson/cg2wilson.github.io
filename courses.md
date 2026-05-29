@@ -9,14 +9,17 @@ I began adjuncting at OCCC in the Summer of 2015, and continued to do so almost 
 
 ### This Semester
 
-In the Spring of 2026, I'll be teaching the following courses:
+In the Summer of 2026, I'll be teaching the following courses:
+- Math 2013: Intro to Statistics
+
+For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
+
+
+In the Fall of 2026, I'll be teaching
 - Math 1483: Functions & Modeling
 - Math 2013: Intro to Statistics
 - Math 2104: Calculus & Analytic Geometry I
 - Math 2314: Calculus & Analytic Geometry III
-
-For my current office hours, you can view [this page](https://cg2wilson.github.io/officehours)
-
 ---
 
 
