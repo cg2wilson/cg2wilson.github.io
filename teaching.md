@@ -9,7 +9,6 @@ permalink: /teaching/
 
 In the Summer of 2026, I'll be teaching the following courses:
 - Math 2013: Intro to Statistics
-- Math 2314: Calculus & Analytic Geometry III
 
 ### Fall 2026
 
