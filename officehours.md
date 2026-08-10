@@ -5,7 +5,16 @@ permalink: /teaching/officehours/
 ---
 # Office Hours
 
+My general office hours are as follows:
+- Monday: 7am - 11am
+- Tuesday: 10:30am - 12:30pm
+- Wednesday: 7am - 11am
+- Thursday: 10:30am - 12:30pm
+
 ## 2013 Specific Office Hours
-- Monday: 11:00am - 1:00pm (Link on Moodle)
+- Monday: 1:30pm - 3:00pm (Link on Moodle)
+
+## 1483 Specific Office Hours
+- Wednesday 1:30pm - 3:00pm (Link on Moodle)
 
 I'm always happy to answer questions by email as well!
