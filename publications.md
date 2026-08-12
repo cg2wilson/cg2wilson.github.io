@@ -6,7 +6,7 @@ permalink: /research/publications/
 
 ## Publications
 
-<b>Wilson, C.</b>, Paoletti, T., and Cook, J.P. (2027). Students' equivalence ways of reasoning in measurement contexts. To appear in the International Journal of Research in Undergraduate Mathematics Education.
+<b>Wilson, C.</b>, Paoletti, T., Cook, J.P., Reed, Z., and Lockwood, E. (2027). Students’ productive reasoning about equivalence and proportionality. To appear in the International Journal of Research in Undergraduate Mathematics Education.
 
 <b>Wilson, C.</b>, Paoletti, T., Cook J.P., Reed, Z., and Lockwood, E. (2026). Equivalence in measurement contexts: The case of Emily. In Cook, S., Katz, B., & Moore-Russo, D. (Eds.) Proceedings of the 28th Annual Conference on Research in Undergraduate Mathematics Education. Arlington, VA.
 
