@@ -5,7 +5,7 @@ permalink: /teaching/officehours/
 ---
 # Office Hours
 
-My general office hours are as follows:
+My general office hours are as follows, in SEM 2B6(B):
 - Monday: 7am - 11am
 - Tuesday: 10:30am - 12:30pm
 - Wednesday: 7am - 11am
