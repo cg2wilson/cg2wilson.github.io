@@ -10,7 +10,7 @@ permalink: /research/publications/
 
 Paoletti, T., <b>Wilson, C.</b>, & Cook, J.P. (2027). “One teacher's not made up of 28 students, but one lunar cycle is made up of 28 days”: A student’s magnitude meanings when comparing two proportional situations. In Cook, S., Katz, B., & Moore-Russo, D. (Eds.) Proceedings of the 29th Annual Conference on Research in Undergraduate Mathematics Education. San Diego, CA.
 
-<b>Wilson, C.</b>, Paoletti, T., Cook, J.P., Reed, Z., and Lockwood, E. (2026). Equivalence in measurement contexts: The case of Emily. In Cook, S., Katz, B., & Moore-Russo, D. (Eds.) Proceedings of the 28th Annual Conference on Research in Undergraduate Mathematics Education. Arlington, VA.
+<b>Wilson, C.</b>, Paoletti, T., Cook, J.P., Reed, Z., & Lockwood, E. (2026). Equivalence in measurement contexts: The case of Emily. In Cook, S., Katz, B., & Moore-Russo, D. (Eds.) Proceedings of the 28th Annual Conference on Research in Undergraduate Mathematics Education. Arlington, VA.
 
 Cook, J.P., Richardson, A., Reed, Z., Lockwood, E., Payne, O.H., & <b>Wilson, C.</b> (2026). Analyzing students' productive use of equivalence transformations. Journal of Mathematical Behavior 81. 101285.
 
