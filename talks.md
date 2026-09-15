@@ -6,6 +6,8 @@ permalink: /research/talks/
 
 ## Talks Given
 
+"Title TBD". Math Education Seminar, Texas State University, Spring 2027. (San Marcos, TX)
+
 "Alternative Grading and Inquiry Learning in Calculus". 52nd Annual AMATYC Conference, PSMATYC, Fall 2026. (Philadelphia, PA)
 
 "Equivalence in Measurement Contexts". 52nd Annual AMATYC Conference, PSMATYC, Fall 2026. (Philadelphia, PA)
