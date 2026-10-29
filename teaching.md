@@ -13,6 +13,13 @@ In the Fall of 2026, I'll be teaching the following courses:
 - Math 2104: Calculus & Analytic Geometry I
 - Math 2314: Calculus & Analytic Geometry III
 
+#### Spring 2027
+In Spring 2027, I'll be teaching the following courses:
+- Math 1483: Functions & Modeling
+- Math 2013: Intro to Statistics
+- Math 2104: Calculus & Analytic Geometry I
+- Math 2413: Ordinary Differential Equations
+
 For my current office hours, you can view [this page](/teaching/officehours/)
 
 ## Previous Semesters
