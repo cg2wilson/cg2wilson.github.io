@@ -13,7 +13,7 @@ permalink: /research/
 I am beginning my research career, but am interested in
 
 - How students learn and interact with calculus
-- Student understanding of equivalence between contexts, particularly for measurement
+- Student notions of unit and subsequent affordances/constraints
 - Vertical transfer issues for students transitioning from two-year to four-year institutions, particularly credit loss
 - Alternative grading methods, particularly standards-based grading
 

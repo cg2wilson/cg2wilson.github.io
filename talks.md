@@ -12,6 +12,8 @@ permalink: /research/talks/
 
 "Equivalence in Measurement Contexts". 52nd Annual AMATYC Conference, PSMATYC, Fall 2026. (Philadelphia, PA)
 
+"Students' Units Conceptions: A Dissertation in the Works". RUME Seminar, University of Oklahoma, Fall 2026. (Norman, OK)
+
 "Community College Students' Productive Use of Equivalence in Measurement Contexts". RUME Seminar, Oklahoma State University, Spring 2026. (Stillwater, OK)
 
 "Equivalence in Measurement Contexts: The Case of Emily". 28th Conference on Research in Undergraduate Math Education, Virginia Tech University, Spring 2026. (Alexandria, VA)
